@@ -1,0 +1,1 @@
+{"seed":42,"test_fraction":0.2,"validation_fraction_of_training":0.2,"embedding_dimension":300,"sequence_length":100,"rnn_units":64,"lstm_units":64,"dropout":0.3,"batch_size":32,"epochs":10}
